@@ -17,3 +17,5 @@
 
 '@': path.resolve(__dirname, '../src'),
         '@view': path.resolve(__dirname, '../src/view'),
+        
+react-temp-02@0.1.0 start: `node scripts/start.js`
