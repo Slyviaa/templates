@@ -19,3 +19,4 @@
         '@view': path.resolve(__dirname, '../src/view'),
         
 react-temp-02@0.1.0 start: `node scripts/start.js`
+index.js:1 Warning: Failed prop type: Invalid prop 'component' supplied to 'Route': the prop is not a valid React component
