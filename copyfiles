@@ -20,3 +20,11 @@
         
 react-temp-02@0.1.0 start: `node scripts/start.js`
 index.js:1 Warning: Failed prop type: Invalid prop 'component' supplied to 'Route': the prop is not a valid React component
+
+const contentStyle = {
+  height: '160px',
+  color: '#fff',
+  lineHeight: '160px',
+  textAlign: 'center',
+  background: '#364d79',
+};
