@@ -12,3 +12,8 @@
       "node_modules"
   ]
 }
+
+
+
+'@': path.resolve(__dirname, '../src'),
+        '@view': path.resolve(__dirname, '../src/view'),
